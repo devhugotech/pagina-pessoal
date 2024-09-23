@@ -1,0 +1,44 @@
+/* Define a cor de fundo da página */
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Estiliza o cabeçalho */
+  header {
+    background-color: #2658c4;
+    color: white;
+    padding: 20px;
+  }
+  
+  /* Centraliza o conteúdo */
+  section {
+    width: 60%;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  /* Estiliza o texto */
+  h1, h2 {
+    color: #333;
+  }
+  
+  p, ul {
+    color: #555;
+    font-size: 18px;
+    line-height: 1.6;
+  }
+  
+  /* Estiliza os links */
+  a {
+    color: #4CAF50;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
